@@ -1,1 +1,1 @@
-# QuISL-python
+# QuISL-framework-python
